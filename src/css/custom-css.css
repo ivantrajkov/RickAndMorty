@@ -1,0 +1,6 @@
+#main{
+    background-size: contain;
+    height: 3700px;
+    background: rgba(0, 0, 0, 0.9) url("../images/rickmorty.jpg");
+    z-index: -1;
+}
