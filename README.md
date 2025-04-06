@@ -18,9 +18,9 @@ To start the application easily without any problems, it is containerized and ca
    ```bash
    docker build -t rick_morty .
 
-2. Then run:
+2. Then run(different ports can be specified if needed):
    ```bash
-   docker run -p 3000:3000 (or any other ports you would like) --name rick_morty_container (optional) rick_morty
+   docker run -p 3000:3000 --name rick_morty_container rick_morty
 
 3.Access the application on your localhost and the port specified.
 
