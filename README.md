@@ -22,7 +22,7 @@ To start the application easily without any problems, it is containerized and ca
    ```bash
    docker run -p 3000:3000 --name rick_morty_container rick_morty
 
-3.Access the application on your localhost and the port specified.
+3. Access the application on your localhost and the port specified.
 
 ## Showcase:
 
